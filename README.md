@@ -1,10 +1,11 @@
 # KittyPal - Virtual Pet Simulator
+
+**KittyPal** is a terminal-based virtual pet simulator where users can adopt and care for a virtual pet. The pet can be interacted with in various ways, such as feeding, playing, and resting, affecting its **hunger**, **health**, **energy**, and **happiness** levels. As you take care of your pet, you’ll see its mood change based on its stats, and the pet will display different ASCII art to reflect its current state (e.g., happy, sad, sleepy, etc.).
+
                             ╱|、
                           (˚ˎ 。7  
                            |、˜〵          
                           じしˍ,)ノ
-
-**KittyPal** is a terminal-based virtual pet simulator where users can adopt and care for a virtual pet. The pet can be interacted with in various ways, such as feeding, playing, and resting, affecting its **hunger**, **health**, **energy**, and **happiness** levels. As you take care of your pet, you’ll see its mood change based on its stats, and the pet will display different ASCII art to reflect its current state (e.g., happy, sad, sleepy, etc.).
 
 ## Features:
 - **Feed**: Decreases hunger and increases health.
